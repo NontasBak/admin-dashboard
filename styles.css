@@ -295,12 +295,15 @@ input[type="text"]:focus {
 }
 
 #profile-1 {
-    
     filter: saturate(5) sepia(100);
 }
 
+#profile-2 {
+    filter: hue-rotate(250deg)
+}
+
 #profile-3 {
-    filter:sepia(100) hue-rotate(188deg);
+    filter: hue-rotate(140deg) saturate(1);
 }
 
 #profile-4 {
