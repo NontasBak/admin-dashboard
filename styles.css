@@ -92,6 +92,7 @@ body {
 
 input[type="text"]:focus {
     border: 2px solid green;
+    outline: none;
 }
 
 .header > .top-row > .name {
